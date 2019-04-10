@@ -66,6 +66,7 @@
 62. [微信开发者工具](https://github.com/cytle/wechat_web_devtools)
 63. [my-weather-indicator](https://github.com/atareao/my-weather-indicator)(天气插件)
 64. [uGet](https://ugetdm.com/)(下载管理器)
+65. [Postman](https://www.getpostman.com/)(完美的API调试工具)
 
 **2. 常见问题**
 
