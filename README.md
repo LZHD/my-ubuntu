@@ -40,7 +40,7 @@
 36. Linux Game(SuperTux、SuperTuxKart、btanks、pingus)
 37. gnome-web-photo(搭配Shutter网页截图)
 38. [Pick](https://kryogenix.org/code/pick/)(拾色器)
-39. [fluxgui](https://github.com/xflux-gui/fluxgui)(根据光线自动调节你的电脑屏幕显示)
+39. [fluxgui](https://github.com/xflux-gui/fluxgui)(随环境调节色温)
 40. [Screen](https://www.gnu.org/software/screen/)(全屏窗口管理器)
 41. [有道词典](http://cidian.youdao.com/index-linux.html)(使用deepin版)
 42. [Skype](https://www.skype.com/en/get-skype/)(网络通讯工具)
@@ -67,6 +67,8 @@
 63. [my-weather-indicator](https://github.com/atareao/my-weather-indicator)(天气插件)
 64. [uGet](https://ugetdm.com/)(下载管理器)
 65. [Postman](https://www.getpostman.com/)(完美的API调试工具)
+66. [XMind](https://www.xmind.net/)(思维导图)
+67. [Redshift](https://github.com/jonls/redshift)(随环境调节色温)
 
 **2. 常见问题**
 
