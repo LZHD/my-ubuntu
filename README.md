@@ -69,6 +69,7 @@
 65. [Postman](https://www.getpostman.com/)(完美的API调试工具)
 66. [XMind](https://www.xmind.net/)(思维导图)
 67. [Redshift](https://github.com/jonls/redshift)(随环境调节色温)
+68. [ripgrep](https://github.com/BurntSushi/ripgrep)(强大的命令行搜索工具)
 
 **2. 常见问题**
 
