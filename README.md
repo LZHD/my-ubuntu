@@ -70,6 +70,8 @@
 66. [XMind](https://www.xmind.net/)(思维导图)
 67. [Redshift](https://github.com/jonls/redshift)(随环境调节色温)
 68. [ripgrep](https://github.com/BurntSushi/ripgrep)(强大的命令行搜索工具)
+69. [钉钉](https://github.com/nashaofu/dingtalk)
+70. [terminator-themes](https://github.com/EliverLara/terminator-themes)(超级终端主题(#16))
 
 **2. 常见问题**
 
