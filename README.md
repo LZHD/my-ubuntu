@@ -72,6 +72,7 @@
 68. [ripgrep](https://github.com/BurntSushi/ripgrep)(强大的命令行搜索工具)
 69. [钉钉](https://github.com/nashaofu/dingtalk)
 70. [terminator-themes](https://github.com/EliverLara/terminator-themes)(超级终端主题(#16))
+71. [Nginx](https://nginx.org/en/)(是一个高性能的HTTP和反向代理web服务器)
 
 **2. 常见问题**
 
