@@ -46,8 +46,8 @@
 40 | [Screen](https://www.gnu.org/software/screen/) | 全屏窗口管理器
 41 | [youdao-dict](https://cidian.youdao.com/index-linux.html) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限
 42 | [Skype](https://www.skype.com/en/get-skype/) | 网络通讯工具
-43 | [Xmonad](https://wiki.archlinux.org/index.php/Xmonad_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | 平铺式窗口管理器
-44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | 多显示器配置工具
+43 | [Xmonad]( https://wiki.archlinux.org/index.php/Xmonad) | 平铺式窗口管理器
+44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | 多显示器配置工具
 45 | [ARandR](https://christian.amsuess.com/tools/arandr/) | 多显示器配置工具Xrandr的GUI工具
 46 | [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) | 借助此环境可以安装deepin下的常用的Windows软件，比如：微信、QQ等
 47 | [draw.io](https://www.draw.io/) | 图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图
