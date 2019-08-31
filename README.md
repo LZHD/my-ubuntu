@@ -15,25 +15,25 @@
 9 | [VS Code](https://code.visualstudio.com/) | 微软编辑器
 10 | [Android Studio](https://developer.android.google.cn/studio/) | 安卓开发IDE
 11 | [Inkcape](https://inkscape.org) | 矢量图形编辑器
-12 | [JD-JUI](http://jd.benow.ca) | Java反编译器
-13 | [Meld](http://meldmerge.org/) | 比较文件，目录和版本控制工具
+12 | [JD-JUI](https://java-decompiler.github.io) | Java反编译器
+13 | [Meld](https://meldmerge.org) | 比较文件，目录和版本控制工具
 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper报表开发工具
 15 | [Kodi](https://kodi.tv/download) | 多媒体播放器
 16 | [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) | 超级终端模拟器
 17 | [geogebra-classic](https://www.geogebra.org) | 几何画板
-18 | [Remarkable](http://remarkableapp.github.io) | markdown编辑器
+18 | [Remarkable](https://remarkableapp.github.io) | markdown编辑器
 19 | [Vim](https://www.vim.org/) | 文本编辑器
 20 | [Apache2](https://help.ubuntu.com/lts/serverguide/httpd.html) | Apache2 Web 服务器
 21 | [git-diffall](https://github.com/LZHD/git-diffall) | git目录对比
 22 | [WebTorrent](https://webtorrent.io) | 类似迅雷
-23 | [Privoxy](http://www.privoxy.org) | 代理服务器
+23 | [Privoxy](https://www.privoxy.org) | 代理服务器
 24 | [Scrcpy](https://github.com/Genymobile/scrcpy) | Android屏幕共享
 25 | aptitude | Debian及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题
 26 | ~~MusicLake~~[手机端](https://github.com/caiyonglong/MusicLake)---[PC端](https://github.com/sunzongzheng/music) | 音乐播放器
 27 | [peek](https://github.com/phw/peek) | GIF录制
 28 | [calibre](https://calibre-ebook.com/download_linux) | 电子书阅读
 29 | [Albert](https://github.com/albertlauncher/albert) | 全局搜索扩展
-30 | [Shutter](http://shutter-project.org) | 截图
+30 | [Shutter](https://shutter-project.org) | 截图
 31 | Kazam | 录屏
 32 | [Unity Tweak Tool](https://github.com/freyja-dev/unity-tweak-tool) | Unity配置工具
 33 | [CCSM](http://wiki.compiz.org/CCSM) | 设备管理器
@@ -44,7 +44,7 @@
 38 | [Pick](https://kryogenix.org/code/pick/) | 拾色器
 39 | [fluxgui](https://github.com/xflux-gui/fluxgui) | 随环境调节色温
 40 | [Screen](https://www.gnu.org/software/screen/) | 全屏窗口管理器
-41 | [youdao-dict](https://cidian.youdao.com/index-linux.html) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限
+41 | [youdao-dict](https://cidian.youdao.com/index-linux.html) [UbuntuKylin官方仓库](https://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限
 42 | [Skype](https://www.skype.com/en/get-skype/) | 网络通讯工具
 43 | [Xmonad]( https://wiki.archlinux.org/index.php/Xmonad) | 平铺式窗口管理器
 44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | 多显示器配置工具
