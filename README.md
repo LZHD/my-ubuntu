@@ -79,6 +79,9 @@
 73 | [MockingBot](https://modao.cc/) | 强大易用的原型设计与协同工具
 74 | [slimbookbattery](https://github.com/slimbook/slimbookbattery) | 电源管理工具
 75 | [Typora](https://www.typora.io) | markdown编辑器
+76 | [amule](https://github.com/amule-project/amule) | 类似`电驴`
+77 | [termius](https://termius.com) | `SSH`客户端
+78 | [Blender](https://www.blender.org/download/)v | 3D动画、建模
 
 **2. 常见问题**
 
