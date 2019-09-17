@@ -82,6 +82,7 @@
 76 | [amule](https://github.com/amule-project/amule) | 类似`电驴`
 77 | [termius](https://termius.com) | `SSH`客户端
 78 | [Blender](https://www.blender.org/download/) | 3D动画、建模
+79 | [y-ppa-manager](https://itsfoss.com/y-ppa-manager/) | 软件源管理软件
 
 **2. 常见问题**
 
