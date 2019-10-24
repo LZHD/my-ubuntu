@@ -84,6 +84,7 @@
 78 | [Blender](https://www.blender.org/download/) | 3D动画、建模
 79 | [y-ppa-manager](https://itsfoss.com/y-ppa-manager/) | 软件源管理软件
 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | `React Native`调试利器 
+81 | [Tmux](https://github.com/tmux/tmux/wiki) | Tmux是终端多路复用器
 
 **2. 常见问题**
 
