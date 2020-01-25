@@ -44,7 +44,7 @@
 38 | [Pick](https://kryogenix.org/code/pick/) | 拾色器
 39 | [fluxgui](https://github.com/xflux-gui/fluxgui) | 随环境调节色温
 40 | [Screen](https://www.gnu.org/software/screen/) | 全屏窗口管理器
-41 | [youdao-dict](https://cidian.youdao.com/index-linux.html)<br>[UbuntuKylin官方仓库](https://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限
+41 | [youdao-dict](https://cidian.youdao.com/index-linux.html)<br>[UbuntuKylin官方仓库](http://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限
 42 | [Skype](https://www.skype.com/en/get-skype/) | 网络通讯工具
 43 | [Xmonad]( https://wiki.archlinux.org/index.php/Xmonad) | 平铺式窗口管理器
 44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | 多显示器配置工具
