@@ -86,6 +86,7 @@
 | 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | `React Native`调试利器  |
 | 81 | [Tmux](https://github.com/tmux/tmux/wiki) | Tmux是终端多路复用器 |
 | 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | Bash屏幕截图信息工具 |
+| 83 | [jadx](https://github.com/skylot/jadx) | Java反编译器<br>Dex to Java decompiler |
 
 **2. 常见问题**
 
@@ -94,17 +95,14 @@
 ```sh
     sudo apt-get update
     sudo apt-get install -f
-   
 ```
 >* 文件管理器卡死
 
 ```sh
     pkill nautilus
-    
 ```
 >* 搜狗中文输入法异常
 
 ```sh
     rm -rf ~/.config/SogouPY* ~/.config/sogou*
-
 ```
