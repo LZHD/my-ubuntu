@@ -50,7 +50,7 @@
 | 44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | 多显示器配置工具 |
 | 45 | [ARandR](https://christian.amsuess.com/tools/arandr/) | 多显示器配置工具Xrandr的GUI工具 |
 | 46 | [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) | 借助此环境可以安装deepin下的常用的Windows软件，比如：微信、QQ等 |
-| 47 | [draw.io](https://www.draw.io/) | 图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图 |
+| 47 | [draw.io](https://github.com/jgraph/drawio-desktop) | 图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图 |
 | 48 | [sogoupinyin](https://pinyin.sogou.com/linux/?r=pinyin) | 搜狗输入法 |
 | 49 | [WPS](http://www.wps.cn/product/wpslinux/) | 办公软件 |
 | 50 | [Motrix](https://github.com/agalwood/Motrix) | 跨平台下载工具 |
