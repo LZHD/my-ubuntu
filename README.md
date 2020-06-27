@@ -87,6 +87,7 @@
 | 81 | [Tmux](https://github.com/tmux/tmux/wiki) | Tmux是终端多路复用器 |
 | 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | Bash屏幕截图信息工具 |
 | 83 | [jadx](https://github.com/skylot/jadx) | Java反编译器<br>Dex to Java decompiler |
+| 84 | synaptic | 软件包管理器<br>package manager |
 
 **2. 常见问题**
 
