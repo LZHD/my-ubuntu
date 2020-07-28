@@ -88,6 +88,7 @@
 | 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | Bash屏幕截图信息工具 |
 | 83 | [jadx](https://github.com/skylot/jadx) | Java反编译器<br>Dex to Java decompiler |
 | 84 | synaptic | 软件包管理器<br>package manager |
+| 85 | dconf-tools | 系统配置编辑工具<br>System configuration editing tool |
 
 **2. 常见问题**
 
