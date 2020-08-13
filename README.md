@@ -90,6 +90,7 @@
 | 84 | synaptic | 软件包管理器<br>package manager |
 | 85 | dconf-tools | 系统配置编辑工具<br>System configuration editing tool |
 | 86 | unar | 解压缩软件<br>Unzip software |
+| 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | 键盘和鼠标共享工具<br>keyboard and mouse sharing tool |
 
 **2. 常见问题**
 
