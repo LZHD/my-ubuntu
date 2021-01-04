@@ -92,6 +92,7 @@
 | 86 | unar | 解压缩软件<br>Unzip software |
 | 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | 键盘和鼠标共享工具<br>keyboard and mouse sharing tool |
 | 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | 响应式页面调试工具<br>A modified web browser that helps in responsive web development |
+| 89 | Nemo | 文件管理器<br/>File Manager for Ubuntu |
 
 **2. 常见问题**
 
