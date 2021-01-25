@@ -1,4 +1,4 @@
-## Ubuntu养成记
+## my-ubuntu
 
 **1. 软件**
 
@@ -27,7 +27,7 @@
 | 21 | [git-diffall](https://github.com/LZHD/git-diffall) | git目录对比 |
 | 22 | [WebTorrent](https://webtorrent.io) | 类似迅雷 |
 | 23 | [Privoxy](https://www.privoxy.org) | 代理服务器 |
-| 24 | [Scrcpy](https://github.com/Genymobile/scrcpy) | Android屏幕共享 |
+| 24 | [Scrcpy](https://github.com/Genymobile/scrcpy) & [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) | Android屏幕共享 |
 | 25 | aptitude | Debian及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题 |
 | 26 | ~~MusicLake~~[手机端](https://github.com/caiyonglong/MusicLake)---[PC端](https://github.com/sunzongzheng/music) | 音乐播放器 |
 | 27 | [peek](https://github.com/phw/peek) | GIF录制 |
