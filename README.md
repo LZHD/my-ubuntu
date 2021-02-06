@@ -2,28 +2,28 @@
 
 **1. 软件**
 
-| 序号 | 名称（链接） | 说明 |
+| Number(序号) | name(名称) | Description(说明) |
 | :---: | :--- | :--- |
-|1 | [Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5) | 梯子|
-| 2 | [teamviewer](https://www.teamviewer.com/cn/download/linux/) | 远程 |
-| 3 | [VirtualBox](https://www.virtualbox.org/) | 虚拟机 |
-| 4 | [Chrome](https://www.google.cn/chrome/) | 谷歌浏览器 |
-| 5 | [netease-cloud-music](https://music.163.com/#/download) | 网易云音乐 |
-| 6 | [WebStorm](https://www.jetbrains.com/webstorm/) | 前端IDE |
-| 7 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | 后端IDE |
-| 8 | [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | 微信 |
-| 9 | [VS Code](https://code.visualstudio.com/) | 微软编辑器 |
-| 10 | [Android Studio](https://developer.android.google.cn/studio/) | 安卓开发IDE |
-| 11 | [Inkcape](https://inkscape.org) | 矢量图形编辑器 |
-| 12 | [JD-JUI](https://java-decompiler.github.io) | Java反编译器 |
-| 13 | [Meld](https://meldmerge.org) | 比较文件，目录和版本控制工具 |
-| 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper报表开发工具 |
-| 15 | [Kodi](https://kodi.tv/download) | 多媒体播放器 |
-| 16 | [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) | 超级终端模拟器 |
-| 17 | [geogebra-classic](https://www.geogebra.org) | 几何画板 |
-| 18 | [Remarkable](https://remarkableapp.github.io) | markdown编辑器 |
-| 19 | [Vim](https://www.vim.org/) | 文本编辑器 |
-| 20 | [Apache2](https://help.ubuntu.com/lts/serverguide/httpd.html) | Apache2 Web 服务器 |
+| 1 | [Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5) | VPN client<br>梯子 |
+| 2 | [teamviewer](https://www.teamviewer.com/cn/download/linux/) | Remote desktop client<br>远程桌面客户端 |
+| 3 | [VirtualBox](https://www.virtualbox.org/) | Open source virtual machine software<br>开源虚拟机虚拟机 |
+| 4 | [Chrome](https://www.google.cn/chrome/) | Chrome Browser<br>谷歌浏览器 |
+| 5 | [netease-cloud-music](https://music.163.com/#/download) | Netease cloud music Client<br>网易云音乐客户端 |
+| 6 | [WebStorm](https://www.jetbrains.com/webstorm/) | Front-end development IDE<br>前端开发IDE |
+| 7 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Open source virtual machine software<br>后端开发IDE |
+| 8 | [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | A better WeChat on macOS and Linux. Built with [Electron](https://github.com/atom/electron)<br>微信网页版第三方客户端 |
+| 9 | [VS Code](https://code.visualstudio.com/) | Code editor<br>代码编辑器 |
+| 10 | [Android Studio](https://developer.android.google.cn/studio/) | Android development IDE<br>安卓开发IDE |
+| 11 | [Inkcape](https://inkscape.org) | Open source vector graphics editor<br>矢量图形编辑器 |
+| 12 | [JD-JUI](https://java-decompiler.github.io) | A standalone Java Decompiler<br>Java反编译器 |
+| 13 | [Meld](https://meldmerge.org) | A visual diff and merge tool targeted at developers<br>比较文件，目录和版本控制工具 |
+| 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper report development tool<br>Jasper报表开发工具 |
+| 15 | [Kodi](https://kodi.tv/download) | A free and open source media player application<br>多媒体播放器 |
+| 16 | [Terminator](https://github.com/gnome-terminator/terminator) | multiple GNOME terminals in one window<br>超级终端模拟器 |
+| 17 | [geogebra-classic](https://www.geogebra.org) | Mathematics software<br>数学软件 |
+| 18 | [Remarkable](https://remarkableapp.github.io) | Markdown editor<br>Markdown编辑器 |
+| 19 | [Vim](https://github.com/vim/vim) | Vim is a console-run text editor program<br>文本编辑器 |
+| 20 | [Apache2](http://httpd.apache.org/) | Web server<br>Web 服务器 |
 | 21 | [git-diffall](https://github.com/LZHD/git-diffall) | git目录对比 |
 | 22 | [WebTorrent](https://webtorrent.io) | 类似迅雷 |
 | 23 | [Privoxy](https://www.privoxy.org) | 代理服务器 |
@@ -83,16 +83,16 @@
 | 77 | [termius](https://termius.com) | `SSH`客户端 |
 | 78 | [Blender](https://www.blender.org/download/) | 3D动画、建模 |
 | 79 | [y-ppa-manager](https://itsfoss.com/y-ppa-manager/) | 软件源管理软件 |
-| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | `React Native`调试利器  |
-| 81 | [Tmux](https://github.com/tmux/tmux/wiki) | Tmux是终端多路复用器 |
-| 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | Bash屏幕截图信息工具 |
-| 83 | [jadx](https://github.com/skylot/jadx) | Java反编译器<br>Dex to Java decompiler |
-| 84 | synaptic | 软件包管理器<br>package manager |
-| 85 | dconf-tools | 系统配置编辑工具<br>System configuration editing tool |
-| 86 | unar | 解压缩软件<br>Unzip software |
-| 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | 键盘和鼠标共享工具<br>keyboard and mouse sharing tool |
-| 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | 响应式页面调试工具<br>A modified web browser that helps in responsive web development |
-| 89 | Nemo | 文件管理器<br/>File Manager for Ubuntu |
+| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | The standalone app based on official debugger of React Native<br>`React Native`调试利器 |
+| 81 | [Tmux](https://github.com/tmux/tmux) | Tmux is a terminal multiplexer<br>Tmux是终端多路复用器 |
+| 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | The Bash Screenshot Information Tool<br>Bash屏幕截图信息工具 |
+| 83 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler<br>Java反编译器 |
+| 84 | synaptic | Package manager<br>软件包管理器 |
+| 85 | dconf-tools | System configuration editing tool<br>系统配置编辑工具 |
+| 86 | unar | Unzip software<br>解压缩软件 |
+| 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | Keyboard and mouse sharing tool<br>键盘和鼠标共享工具 |
+| 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | Responsive page development tool<br>响应式页面开发工具 |
+| 89 | Nemo | File Manager<br>文件管理器 |
 
 **2. 常见问题**
 
