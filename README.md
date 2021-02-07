@@ -8,35 +8,35 @@
 | 2 | [teamviewer](https://www.teamviewer.com/cn/download/linux/) | Remote desktop client<br>远程桌面客户端 |
 | 3 | [VirtualBox](https://www.virtualbox.org/) | Open source virtual machine software<br>开源虚拟机虚拟机 |
 | 4 | [Chrome](https://www.google.cn/chrome/) | Chrome Browser<br>谷歌浏览器 |
-| 5 | [netease-cloud-music](https://music.163.com/#/download) | Netease cloud music Client<br>网易云音乐客户端 |
-| 6 | [WebStorm](https://www.jetbrains.com/webstorm/) | Front-end development IDE<br>前端开发IDE |
-| 7 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Open source virtual machine software<br>后端开发IDE |
+| 5 | [netease-cloud-music](https://music.163.com/#/download) | Netease cloud music Client<br>网易云音乐播放器 |
+| 6 | [WebStorm](https://www.jetbrains.com/webstorm/) | Front-end development IDE<br>前端开发 IDE |
+| 7 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Open source virtual machine software<br>后端开发 IDE |
 | 8 | [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | A better WeChat on macOS and Linux. Built with [Electron](https://github.com/atom/electron)<br>微信网页版第三方客户端 |
 | 9 | [VS Code](https://code.visualstudio.com/) | Code editor<br>代码编辑器 |
-| 10 | [Android Studio](https://developer.android.google.cn/studio/) | Android development IDE<br>安卓开发IDE |
+| 10 | [Android Studio](https://developer.android.google.cn/studio/) | Android development IDE<br>安卓开发 IDE |
 | 11 | [Inkcape](https://inkscape.org) | Open source vector graphics editor<br>矢量图形编辑器 |
-| 12 | [JD-JUI](https://java-decompiler.github.io) | A standalone Java Decompiler<br>Java反编译器 |
+| 12 | [JD-JUI](https://java-decompiler.github.io) | A standalone Java Decompiler<br>Java 反编译器 |
 | 13 | [Meld](https://meldmerge.org) | A visual diff and merge tool targeted at developers<br>比较文件，目录和版本控制工具 |
-| 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper report development tool<br>Jasper报表开发工具 |
+| 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper report development tool<br>Jasper 报表开发工具 |
 | 15 | [Kodi](https://kodi.tv/download) | A free and open source media player application<br>多媒体播放器 |
 | 16 | [Terminator](https://github.com/gnome-terminator/terminator) | multiple GNOME terminals in one window<br>超级终端模拟器 |
 | 17 | [geogebra-classic](https://www.geogebra.org) | Mathematics software<br>数学软件 |
-| 18 | [Remarkable](https://remarkableapp.github.io) | Markdown editor<br>Markdown编辑器 |
+| 18 | [Remarkable](https://remarkableapp.github.io) | Markdown editor<br>Markdown 编辑器 |
 | 19 | [Vim](https://github.com/vim/vim) | Vim is a console-run text editor program<br>文本编辑器 |
 | 20 | [Apache2](http://httpd.apache.org/) | Web server<br>Web 服务器 |
-| 21 | [git-diffall](https://github.com/LZHD/git-diffall) | git目录对比 |
-| 22 | [WebTorrent](https://webtorrent.io) | 类似迅雷 |
-| 23 | [Privoxy](https://www.privoxy.org) | 代理服务器 |
-| 24 | [Scrcpy](https://github.com/Genymobile/scrcpy) & [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) | Android屏幕共享 |
-| 25 | aptitude | Debian及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题 |
-| 26 | ~~MusicLake~~[手机端](https://github.com/caiyonglong/MusicLake)---[PC端](https://github.com/sunzongzheng/music) | 音乐播放器 |
-| 27 | [peek](https://github.com/phw/peek) | GIF录制 |
-| 28 | [calibre](https://calibre-ebook.com/download_linux) | 电子书阅读 |
-| 29 | [Albert](https://github.com/albertlauncher/albert) | 全局搜索扩展 |
-| 30 | [Shutter](https://shutter-project.org) | 截图 |
-| 31 | Kazam | 录屏 |
-| 32 | [Unity Tweak Tool](https://github.com/freyja-dev/unity-tweak-tool) | Unity配置工具 |
-| 33 | [CCSM](http://wiki.compiz.org/CCSM) | 设备管理器 |
+| 21 | ~~[git-diffall](https://github.com/LZHD/git-diffall)~~ | Git file directory comparison script<br>git 目录对比脚本 |
+| 22 | [WebTorrent](https://webtorrent.io) | The streaming torrent client<br>流媒体客户端 |
+| 23 | [Privoxy](https://www.privoxy.org) | Web proxy<br>Web 代理 |
+| 24 | [Scrcpy](https://github.com/Genymobile/scrcpy) & [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) | This application provides display and control of Android devices connected on USB<br>显示并控制通过 USB 连接的安卓设备 |
+| 25 | aptitude | A powerful package management tool in Debian and its derivative systems, similar to apt-get, which mainly deals with dependency issues<br>Debian 及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题 |
+| 26 | ~~MusicLake~~[手机端](https://github.com/caiyonglong/MusicLake)---[PC端](https://github.com/sunzongzheng/music) | music player<br>音乐播放器 |
+| 27 | [Peek](https://github.com/phw/peek) | Simple animated GIF screen recorder with an easy to use interface<br>GIF 屏幕录制 |
+| 28 | [Calibre](https://calibre-ebook.com/download_linux) | Calibre is a powerful and easy to use e-book manager<br>电子书管理工具 |
+| 29 | [Albert](https://github.com/albertlauncher/albert) | A fast and flexible keyboard launcher<br>全局搜索扩展 |
+| 30 | [Shutter](https://shutter-project.org) | The feature-rich screenshot tool<br>屏幕截图工具 |
+| 31 | [Kazam](https://launchpad.net/kazam) | A simple screen recording program<br>录屏工具 |
+| 32 | [Unity Tweak Tool](https://github.com/freyja-dev/unity-tweak-tool) | A configuration tool for the Unity Desktop<br>Unity 桌面配置工具 |
+| 33 | [CCSM](http://www.compiz.org/) | compizconfig-settings-manager |
 | 34 | [xDroid](https://www.linzhuotech.com/index.php/home/index/down.html) | 跨平台安卓模拟器 |
 | 35 | [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down) | 跨平台 HTTP 高速下载器 |
 | 36 | Linux Game | SuperTux、SuperTuxKart、btanks、pingus |
@@ -83,9 +83,9 @@
 | 77 | [termius](https://termius.com) | `SSH`客户端 |
 | 78 | [Blender](https://www.blender.org/download/) | 3D动画、建模 |
 | 79 | [y-ppa-manager](https://itsfoss.com/y-ppa-manager/) | 软件源管理软件 |
-| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | The standalone app based on official debugger of React Native<br>`React Native`调试利器 |
+| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | The standalone app based on official debugger of React Native<br>`React Native` 调试利器 |
 | 81 | [Tmux](https://github.com/tmux/tmux) | Tmux is a terminal multiplexer<br>Tmux是终端多路复用器 |
-| 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | The Bash Screenshot Information Tool<br>Bash屏幕截图信息工具 |
+| 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | The Bash Screenshot Information Tool<br>Bash 屏幕截图信息工具 |
 | 83 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler<br>Java反编译器 |
 | 84 | synaptic | Package manager<br>软件包管理器 |
 | 85 | dconf-tools | System configuration editing tool<br>系统配置编辑工具 |
