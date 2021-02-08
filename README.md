@@ -2,7 +2,7 @@
 
 **1. 软件**
 
-| Number(序号) | name(名称) | Description(说明) |
+| Number | Name | Description |
 | :---: | :--- | :--- |
 | 1 | [Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5) | VPN client<br>梯子 |
 | 2 | [teamviewer](https://www.teamviewer.com/cn/download/linux/) | Remote desktop client<br>远程桌面客户端 |
@@ -37,19 +37,19 @@
 | 31 | [Kazam](https://launchpad.net/kazam) | A simple screen recording program<br>录屏工具 |
 | 32 | [Unity Tweak Tool](https://github.com/freyja-dev/unity-tweak-tool) | A configuration tool for the Unity Desktop<br>Unity 桌面配置工具 |
 | 33 | [CCSM](http://www.compiz.org/) | compizconfig-settings-manager |
-| 34 | [xDroid](https://www.linzhuotech.com/index.php/home/index/down.html) | 跨平台安卓模拟器 |
-| 35 | [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down) | 跨平台 HTTP 高速下载器 |
+| 34 | [xDroid](https://www.linzhuotech.com/index.php/home/index/down.html) | Cross-platform Android simulation platform<br>跨平台安卓模拟器 |
+| 35 | [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down) | Open source free HTTP high-speed downloader<br>开源的免费 HTTP 高速下载器 |
 | 36 | Linux Game | SuperTux、SuperTuxKart、btanks、pingus |
-| 37 | gnome-web-photo | 搭配Shutter网页截图 |
-| 38 | [Pick](https://kryogenix.org/code/pick/) | 拾色器 |
-| 39 | [fluxgui](https://github.com/xflux-gui/fluxgui) | 随环境调节色温 |
-| 40 | [Screen](https://www.gnu.org/software/screen/) | 全屏窗口管理器 |
-| 41 | [youdao-dict](https://cidian.youdao.com/index-linux.html)<br>[UbuntuKylin官方仓库](http://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/) | 有道词典，建议从UbuntuKylin的软件源安装，官网下载安装报错或功能受限 |
-| 42 | [Skype](https://www.skype.com/en/get-skype/) | 网络通讯工具 |
-| 43 | [Xmonad]( https://wiki.archlinux.org/index.php/Xmonad) | 平铺式窗口管理器 |
+| 37 | gnome-web-photo | With Shutter webpage screenshot<br>搭配 Shutter 网页截图 |
+| 38 | [Pick](https://kryogenix.org/code/pick/) | A colour picker for Ubuntu and other Linux OSes<br>拾色器 |
+| 39 | [fluxgui](https://github.com/xflux-gui/fluxgui) | Better lighting for Linux. Open source GUI for xflux<br>随环境调节色温 |
+| 40 | [Screen](https://www.gnu.org/software/screen/) | A full-screen window manager<br>全屏窗口管理器 |
+| 41 | [youdao-dict](https://cidian.youdao.com/index-linux.html) | Youdao Dictionary<br>有道词典([download link](http://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/)) |
+| 42 | [Skype](https://www.skype.com/en/get-skype/) | A classic instant messaging app for PCs<br>即时通讯工具 |
+| 43 | [Xmonad](https://xmonad.org) | A dynamically tiling X11 window manager<br>平铺式窗口管理器 |
 | 44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | 多显示器配置工具 |
 | 45 | [ARandR](https://christian.amsuess.com/tools/arandr/) | 多显示器配置工具Xrandr的GUI工具 |
-| 46 | [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) | 借助此环境可以安装deepin下的常用的Windows软件，比如：微信、QQ等 |
+| 46 | [deepin-wine](https://github.com/wszqkzqk/deepin-wine-ubuntu) & [other](https://github.com/zq1997/deepin-wine) | Deepin Wine for Ubuntu/Debian<br>借助此环境可以安装deepin下的常用的Windows软件，比如：微信、QQ等 |
 | 47 | [draw.io](https://github.com/jgraph/drawio-desktop) | 图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图 |
 | 48 | [sogoupinyin](https://pinyin.sogou.com/linux/?r=pinyin) | 搜狗输入法 |
 | 49 | [WPS](http://www.wps.cn/product/wpslinux/) | 办公软件 |
