@@ -93,6 +93,7 @@
 | 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | Keyboard and mouse sharing tool<br>键盘和鼠标共享工具 |
 | 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | Responsive page development tool<br>响应式页面开发工具 |
 | 89 | Nemo | File Manager<br>文件管理器 |
+| 90 | [Synapse](https://launchpad.net/synapse-project) | Global search extension<br>全局搜索扩展 |
 
 **2. 常见问题**
 
