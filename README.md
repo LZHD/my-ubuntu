@@ -74,19 +74,19 @@
 | 68 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 强大的命令行搜索工具 |
 | 69 | [dingtalk](https://github.com/nashaofu/dingtalk) | 钉钉 |
 | 70 | [terminator-themes](https://github.com/EliverLara/terminator-themes) | 超级终端主题(#16) |
-| 71 | [Nginx](https://nginx.org/en/) | 是一个高性能的HTTP和反向代理web服务器 |
-| 72 | [TLP](https://launchpad.net/~linrunner/+archive/ubuntu/tlp) | 电源管理工具 |
-| 73 | [MockingBot](https://modao.cc/) | 强大易用的原型设计与协同工具 |
-| 74 | [slimbookbattery](https://github.com/slimbook/slimbookbattery) | 电源管理工具 |
-| 75 | [Typora](https://www.typora.io) | markdown编辑器 |
-| 76 | [amule](https://github.com/amule-project/amule) | 类似`电驴` |
-| 77 | [termius](https://termius.com) | `SSH`客户端 |
-| 78 | [Blender](https://www.blender.org/download/) | 3D动画、建模 |
-| 79 | [y-ppa-manager](https://itsfoss.com/y-ppa-manager/) | 软件源管理软件 |
-| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | The standalone app based on official debugger of React Native<br>`React Native` 调试利器 |
-| 81 | [Tmux](https://github.com/tmux/tmux) | Tmux is a terminal multiplexer<br>Tmux是终端多路复用器 |
+| 71 | [Nginx](https://nginx.org/en/) | An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server<br>一个 HTTP 和反向代理服务器、一个邮件代理服务器和一个通用的 TCP/UDP 代理服务器 |
+| 72 | [TLP](https://launchpad.net/~linrunner/+archive/ubuntu/tlp) | A power management tool<br>电源管理工具 |
+| 73 | [MockingBot](https://modao.cc/) | Powerful and easy-to-use prototyping and collaboration tools<br>墨刀，强大易用的原型设计与协同工具 |
+| 74 | [SlimbookBattery](https://github.com/slimbook/slimbookbattery) | Application for optimize battery of your laptop<br>电源管理工具 |
+| 75 | [Typora](https://www.typora.io) | Markdown editor<br/>Markdown 编辑器 |
+| 76 | [aMule](https://github.com/amule-project/amule) | 'All-platform' P2P client based on eMule<br>类似电驴 |
+| 77 | [Termius](https://termius.com) | SSH client<br>SSH 客户端 |
+| 78 | [Blender](https://www.blender.org/download/) | A free and open source 3D creation suite<br>3D动画、建模 |
+| 79 | [y-ppa-manager](https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager) | Easily Manage PPAs<br>软件源管理软件 |
+| 80 | [react-native-debugger](https://github.com/jhen0409/react-native-debugger) | The standalone app based on official debugger of React Native<br>React Native 调试利器 |
+| 81 | [Tmux](https://github.com/tmux/tmux) | Tmux is a terminal multiplexer<br>Tmux 是终端多路复用器 |
 | 82 | [screenfetch](https://github.com/KittyKatt/screenFetch) | The Bash Screenshot Information Tool<br>Bash 屏幕截图信息工具 |
-| 83 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler<br>Java反编译器 |
+| 83 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler<br>Java 反编译器 |
 | 84 | synaptic | Package manager<br>软件包管理器 |
 | 85 | dconf-tools | System configuration editing tool<br>系统配置编辑工具 |
 | 86 | unar | Unzip software<br>解压缩软件 |
