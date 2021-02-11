@@ -69,11 +69,11 @@
 | 63 | [my-weather-indicator](https://github.com/atareao/my-weather-indicator) | 天气插件 |
 | 64 | [uGet](https://ugetdm.com/) | 下载管理器 |
 | 65 | [Postman](https://www.getpostman.com/) | 完美的API调试工具 |
-| 66 | [XMind](https://www.xmind.net/) | 思维导图 |
-| 67 | [Redshift](https://github.com/jonls/redshift) | 随环境调节色温 |
-| 68 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 强大的命令行搜索工具 |
-| 69 | [dingtalk](https://github.com/nashaofu/dingtalk) | 钉钉 |
-| 70 | [terminator-themes](https://github.com/EliverLara/terminator-themes) | 超级终端主题(#16) |
+| 66 | [XMind](https://www.xmind.net/) | a full-featured mind mapping and brainstorming tool<br>思维导图制作工具 |
+| 67 | [Redshift](https://github.com/jonls/redshift) | Redshift adjusts the color temperature of your screen according to your surroundings<br>随环境调节色温 |
+| 68 | [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore<br>强大的命令行搜索工具 |
+| 69 | [dingtalk](https://github.com/nashaofu/dingtalk) | dingtalk<br>钉钉 |
+| 70 | [terminator-themes](https://github.com/EliverLara/terminator-themes) | Terminator themes(#16)<br>超级终端主题(#16) |
 | 71 | [Nginx](https://nginx.org/en/) | An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server<br>一个 HTTP 和反向代理服务器、一个邮件代理服务器和一个通用的 TCP/UDP 代理服务器 |
 | 72 | [TLP](https://launchpad.net/~linrunner/+archive/ubuntu/tlp) | A power management tool<br>电源管理工具 |
 | 73 | [MockingBot](https://modao.cc/) | Powerful and easy-to-use prototyping and collaboration tools<br>墨刀，强大易用的原型设计与协同工具 |
