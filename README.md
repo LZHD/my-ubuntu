@@ -19,7 +19,7 @@
 | 13 | [Meld](https://meldmerge.org) | A visual diff and merge tool targeted at developers<br>比较文件，目录和版本控制工具 |
 | 14 | [JasperSoftStudio](https://community.jaspersoft.com/project/jaspersoft-studio) | Jasper report development tool<br>Jasper 报表开发工具 |
 | 15 | [Kodi](https://kodi.tv/download) | A free and open source media player application<br>多媒体播放器 |
-| 16 | [Terminator](https://github.com/gnome-terminator/terminator) | multiple GNOME terminals in one window<br>超级终端模拟器 |
+| 16 | [Terminator](https://github.com/gnome-terminator/terminator) | Multiple GNOME terminals in one window<br>超级终端模拟器 |
 | 17 | [geogebra-classic](https://www.geogebra.org) | Mathematics software<br>数学软件 |
 | 18 | [Remarkable](https://remarkableapp.github.io) | Markdown editor<br>Markdown 编辑器 |
 | 19 | [Vim](https://github.com/vim/vim) | Vim is a console-run text editor program<br>文本编辑器 |
@@ -49,7 +49,7 @@
 | 43 | [Xmonad](https://xmonad.org) | A dynamically tiling X11 window manager<br>平铺式窗口管理器 |
 | 44 | [Xrandr](https://wiki.archlinux.org/index.php/Xrandr) | Multi-monitor configuration tool<br>多显示器配置工具 |
 | 45 | [ARandR](https://christian.amsuess.com/tools/arandr/) | Multi-monitor configuration tool Xrandr's GUI tool<br>多显示器配置工具 Xrandr 的 GUI 工具 |
-| 46 | [deepin-wine](https://github.com/wszqkzqk/deepin-wine-ubuntu) & [other](https://github.com/zq1997/deepin-wine) | Deepin Wine for Ubuntu/Debian<br>借助此环境可以安装 deepin 下的常用的 Windows 软件，比如：微信、 QQ 等 |
+| 46 | [deepin-wine](https://github.com/wszqkzqk/deepin-wine-ubuntu) & [other](https://github.com/zq1997/deepin-wine) | Deepin Wine for Ubuntu/Debian<br>借助此环境可以安装 deepin 下的常用的 Windows 软件，比如：微信、 QQ 等([Software warehouse address](https://packages.deepin.com/deepin/pool/non-free/d/)) |
 | 47 | [draw.io](https://github.com/jgraph/drawio-desktop) | Chart making software, used to make flowcharts, organization charts, UML, ER and network topology diagrams<br>图表制作软件，用于制作流程图，组织结构图，UML，ER和网络图 |
 | 48 | [sogoupinyin](https://pinyin.sogou.com/linux/?r=pinyin) | Sogoupinyin<br>搜狗输入法 |
 | 49 | [WPS](http://www.wps.cn/product/wpslinux/) | Office Software<br>办公软件 |
