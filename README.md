@@ -6,7 +6,7 @@
 | :---: | :--- | :--- |
 | 1 | [Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5) | VPN client<br>梯子 |
 | 2 | [teamviewer](https://www.teamviewer.com/cn/download/linux/) | Remote desktop client<br>远程桌面客户端 |
-| 3 | [VirtualBox](https://www.virtualbox.org/) | Open source virtual machine software<br>开源虚拟机虚拟机 |
+| 3 | [VirtualBox](https://www.virtualbox.org/) | Open source virtual machine software<br>开源虚拟机软件 |
 | 4 | [Chrome](https://www.google.cn/chrome/) | Chrome Browser<br>谷歌浏览器 |
 | 5 | [netease-cloud-music](https://music.163.com/#/download) | Netease Cloud Music Player<br>网易云音乐播放器 |
 | 6 | [WebStorm](https://www.jetbrains.com/webstorm/) | Front-end development IDE<br>前端开发 IDE |
