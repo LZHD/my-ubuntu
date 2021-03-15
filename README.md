@@ -94,6 +94,7 @@
 | 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | Responsive page development tool<br>响应式页面开发工具 |
 | 89 | Nemo | File Manager<br>文件管理器 |
 | 90 | [Synapse](https://launchpad.net/synapse-project) | Global search extension<br>全局搜索扩展 |
+| 91 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | SwitchHosts! is an App for managing hosts file<br/>hosts 文件管理软件 |
 
 **2. 常见问题**
 
