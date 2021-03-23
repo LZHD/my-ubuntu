@@ -101,27 +101,27 @@
 >* 软件包依赖
 
 ```sh
-	sudo apt-get update
-	sudo apt-get install -f
+sudo apt-get update
+sudo apt-get install -f
 ```
 >* 文件管理器卡死
 
 ```sh
-	pkill nautilus
+pkill nautilus
 ```
 >* 搜狗中文输入法异常
 
 ```sh
-	rm -rf ~/.config/SogouPY* ~/.config/sogou*
+rm -rf ~/.config/SogouPY* ~/.config/sogou*
 ```
 
 >* yarn 安装全局依赖成功但是命令失效（xxx: command not found）
 
 ```sh
-	# 添加以下语句到 ~/.bashrc 文件的末尾并保存
-	PATH="$PATH:$(yarn global bin)"
-	# 使配置立即生效（或者重启电脑）
-	source ~/.bashrc
-	# 先删除全局依赖
-	# 重新安装全局依赖
+# 添加以下语句到 ~/.bashrc 文件的末尾并保存
+PATH="$PATH:$(yarn global bin)"
+# 使配置立即生效（或者重启电脑）
+source ~/.bashrc
+# 先删除全局依赖
+# 重新安装全局依赖
 ```
