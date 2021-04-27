@@ -96,6 +96,7 @@
 | 90 | [Synapse](https://launchpad.net/synapse-project) | Global search extension<br>全局搜索扩展 |
 | 91 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | SwitchHosts! is an App for managing hosts file<br/>hosts 文件管理软件 |
 | 92 | [apt-file](https://wiki.debian.org/apt-file) | a software package that indexes the contents of packages in your available repositories and allows you to search for a particular file among all available packages<br>对可用存储库中的软件包内容进行索引，并允许您在所有可用的软件包中搜索特定的文件 |
+| 93 | [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager<br>终端文件管理器 |
 
 **2. 常见问题**
 
