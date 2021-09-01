@@ -93,10 +93,11 @@
 | 87 | [Synergy](https://github.com/symless/synergy-core) & [Barrier](https://github.com/debauchee/barrier) | Keyboard and mouse sharing tool<br>键盘和鼠标共享工具 |
 | 88 | [responsively-app](https://github.com/responsively-org/responsively-app) | Responsive page development tool<br>响应式页面开发工具 |
 | 89 | Nemo | File Manager<br>文件管理器 |
-| 90 | [Synapse](https://launchpad.net/synapse-project) | Global search extension<br>全局搜索扩展 |
+| 90 | [Synapse](https://launchpad.net/synapse-project) | Linux Application Launcher<br/>Linux 应用启动器 |
 | 91 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | SwitchHosts! is an App for managing hosts file<br/>hosts 文件管理软件 |
 | 92 | [apt-file](https://wiki.debian.org/apt-file) | a software package that indexes the contents of packages in your available repositories and allows you to search for a particular file among all available packages<br>对可用存储库中的软件包内容进行索引，并允许您在所有可用的软件包中搜索特定的文件 |
 | 93 | [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager<br>终端文件管理器 |
+| 94 | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | Linux Application Launcher<br>Linux 应用启动器 |
 
 **2. 常见问题**
 
