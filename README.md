@@ -41,7 +41,7 @@
 | 35 | [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down) | Open source free HTTP high-speed downloader<br>开源的免费 HTTP 高速下载器 |
 | 36 | Linux Game | SuperTux、SuperTuxKart、btanks、pingus |
 | 37 | gnome-web-photo | With Shutter webpage screenshot<br>搭配 Shutter 网页截图 |
-| 38 | [Pick](https://kryogenix.org/code/pick/) | A colour picker for Ubuntu and other Linux OSes<br>拾色器 |
+| 38 | [Pick](https://github.com/stuartlangridge/ColourPicker) | A colour picker for Ubuntu and other Linux OSes<br>拾色器 |
 | 39 | [fluxgui](https://github.com/xflux-gui/fluxgui) | Better lighting for Linux. Open source GUI for xflux<br>随环境调节色温 |
 | 40 | [Screen](https://www.gnu.org/software/screen/) | A full-screen window manager<br>全屏窗口管理器 |
 | 41 | [youdao-dict](https://cidian.youdao.com/index-linux.html) | Youdao Dictionary<br>有道词典([download link](http://archive.ubuntukylin.com:10006/ubuntukylin/pool/main/y/youdao-dict/)) |
