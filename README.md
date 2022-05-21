@@ -98,6 +98,7 @@
 | 92 | [apt-file](https://wiki.debian.org/apt-file) | a software package that indexes the contents of packages in your available repositories and allows you to search for a particular file among all available packages<br>对可用存储库中的软件包内容进行索引，并允许您在所有可用的软件包中搜索特定的文件 |
 | 93 | [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager<br>终端文件管理器 |
 | 94 | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | Linux Application Launcher<br>Linux 应用启动器 |
+| 95 | [FSearch](https://github.com/cboxdoerfer/fsearch) | A fast file search utility for Unix-like systems based on GTK+3<br>基于 GTK + 3的类 unix 系统的快速文件搜索工具 |
 
 **2. 常见问题**
 
