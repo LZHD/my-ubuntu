@@ -65,7 +65,7 @@
 | 59 | [VLC](https://www.videolan.org/) | 强大的开源视频播放器 |
 | 60 | [Git](https://git-scm.com/) | A free and open source distributed version control system<br>分布式版本控制系统 |
 | 61 | [GParted](https://gparted.org/) | A free partition editor for graphically managing your disk partitions<br>硬盘分区编辑器 |
-| 62 | [wechat_web_devtools](https://github.com/cytle/wechat_web_devtools) & [wechat-web-devtools-linux]([wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux)) | WeChat Developer Tools<br>微信开发者工具 |
+| 62 | [wechat_web_devtools](https://github.com/cytle/wechat_web_devtools) & [wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) | WeChat Developer Tools<br>微信开发者工具 |
 | 63 | [my-weather-indicator](https://github.com/atareao/my-weather-indicator) | A Weather Indicator<br>天气插件 |
 | 64 | [uGet](https://ugetdm.com/) | Open Source Download Manager<br>下载管理器 |
 | 65 | [Postman](https://www.postman.com/downloads/) | API debugging tool<br>完美的 API 调试工具 |
